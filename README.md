@@ -118,6 +118,11 @@ decode("-- -.--   -. .- -- .")
 - Twitter: [@twitterhandle](https://twitter.com/TjayPod)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/john-murianki-thiongo)
 
+￼👤 **MesakDuduCoder**
+
+- GitHub: [@githubhandle](https://github.com/MesakDuduCoder)
+- Twitter: [@twitterhandle](https://twitter.com/mesak_10)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mesak-lalrindika/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -176,7 +181,7 @@ Check out the Ruby documentation and tutorials at https://www.ruby-lang.org/en/d
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/yashodhicy/ReactCapstone/blob/dev/LICENSE) licensed.
+This project is [MIT](https://github.com/tjay1760/ReactCapstone/blob/dev/LICENSE) licensed.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
